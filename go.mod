@@ -1,4 +1,4 @@
-module github.com/LuisAcerv/goeth-api
+module github.com/Noxx85/goeth-api
 
 go 1.13
 
